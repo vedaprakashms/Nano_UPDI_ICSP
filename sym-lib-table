@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Nano")(type "KiCad")(uri "${KIPRJMOD}/ARDUINO_NANO/ARDUINO_NANO.kicad_sym")(options "")(descr ""))
+)
